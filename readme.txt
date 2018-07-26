@@ -7,13 +7,3 @@ Test again.
 
 lll
 666
-hahand&&&ah
-hahah
-hahah
-hahah
-ppp
-ooo
-
-
-
-debug
